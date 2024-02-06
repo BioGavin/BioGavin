@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @BioGavin
+- 👋 I’m @BioGavin
 - 👀 Interested in bioinformatics, AI
 - 💻 Programming Language: Linux, Python
 
